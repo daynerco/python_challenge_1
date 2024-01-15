@@ -1,2 +1,2 @@
 # python_challenge_1
-Homework Challenge Test
+Test for creating a repo for Challenge # 3. This is unused repo
